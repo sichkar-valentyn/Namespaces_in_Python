@@ -1,4 +1,4 @@
-# Namespaces_in_Python
+# Namespaces in Python
 Emulation of the work of the namespace in Python
 
 ### Reference to:
